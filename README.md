@@ -1,4 +1,3 @@
-```markdown
 # Final-Profile
 
 Final-Profile is a personal profile and portfolio project created by [**djbazio**](https://github.com/djbazio). This project demonstrates proficiency in utilizing various web technologies to create an online showcase of the developer's skills, projects, and professional experiences.
